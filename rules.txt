@@ -1,0 +1,6 @@
+General Rules of Thumbs
+================================
+- Learn all short-cuts of Code Editor
+- Make neat and clean code editor
+- Use keyboard short-cuts
+- Always use descripting variable
